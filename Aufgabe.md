@@ -1,1 +1,0 @@
-Das Dokument für die GitHub Aufgabe
